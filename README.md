@@ -64,10 +64,6 @@ SOURCE setup_demo.sql;
 
 🤝 Let's Connect
 
-https://img.shields.io/badge/%F0%9F%8C%90-Portfolio-8A2BE2
-https://img.shields.io/badge/LinkedIn-Levi's_Profile-0A66C2?logo=linkedin
-https://img.shields.io/badge/%F0%9F%93%A7-levi@bossie254.dev-D14836?logo=gmail
-
 ⭐ Star if you appreciate meticulous database craftsmanship!
 🔔 Watch for continuous updates on advanced SQL techniques!
 
